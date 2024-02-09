@@ -1,1 +1,1 @@
-# .github
+# Go Persian (Goalng Fa)
