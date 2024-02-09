@@ -1,1 +1,0 @@
-# Go Persian (Goalng Fa)
